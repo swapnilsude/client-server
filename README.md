@@ -1,12 +1,13 @@
-To create both server and client binaries:
+
+### To create both server and client binaries:
 make all
-To create server binary:
+### To create server binary:
 make server
-To create client binary:
+### To create client binary:
 make client
-To clean both server and client binaries:
+### To clean both server and client binaries:
 make clean
-To clean server binary:
+### To clean server binary:
 make clean_server
-To clean client binary
+### To clean client binary:
 make clean_client
